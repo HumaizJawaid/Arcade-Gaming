@@ -1,4 +1,5 @@
 # Arcade-Gaming
+
 # Before Running the Program:
 Ensure that the PyQt5 package is installed on your system by following these steps:
 
@@ -19,11 +20,11 @@ Debug and run the program.
 
 # File Placement:
 Ensure the following files are in the same folder:
-paiproj.py
-loan_attempts.txt
-loans.txt
-login.txt
-tokens.txt
+1. paiproj.py
+2. loan_attempts.txt
+3. loans.txt
+4. login.txt
+5. tokens.txt
 
 # Account Creation:
 Users can create a new account by providing a username and password on the login interface. Click the "Create Account" button to complete the process.
