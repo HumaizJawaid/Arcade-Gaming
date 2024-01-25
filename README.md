@@ -35,4 +35,4 @@ Each user is allowed a maximum of three loan attempts. Repay the loan to reset y
 # Game Costs and Rewards:
 Each game has an associated cost to play, as well as potential rewards and penalties. Be aware of these dynamics while using the application.
 
-#Enjoy the Application!
+# Enjoy the Application!
